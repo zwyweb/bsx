@@ -1,0 +1,16 @@
+{
+  "name": "bsx_wasm",
+  "type": "module",
+  "description": "WASM reader bindings for the BSX asset bundle format",
+  "version": "0.1.0",
+  "files": [
+    "bsx_wasm_bg.wasm",
+    "bsx_wasm.js",
+    "bsx_wasm.d.ts"
+  ],
+  "main": "bsx_wasm.js",
+  "types": "bsx_wasm.d.ts",
+  "sideEffects": [
+    "./snippets/*"
+  ]
+}
