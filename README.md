@@ -1,4 +1,4 @@
-<image src='./logo.svg'></image>
+<img src="./logo.svg" />
 # bsx
 
 Browser-side reader for the **BSX asset bundle format**, compiled to WebAssembly.  
