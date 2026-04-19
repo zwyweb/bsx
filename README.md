@@ -110,15 +110,6 @@ bsx.free() // or: using (bsx = BsxReader.from_bytes(bytes)) { … }
 
 ---
 
-## demo.html
-
-A self-contained bundle inspector — open it directly in a browser (no server needed).
-
-- Drag & drop any `.bsx` file
-- Inspect asset list, bmap categories, audio banks
-- Preview images, play audio streams
-- String pool unlock UI
-
 ---
 
 ## Usage example
@@ -135,4 +126,3 @@ const blob = new Blob([png], { type: 'image/png' });
 document.querySelector('img').src = URL.createObjectURL(blob);
 
 bsx.free();
-``
