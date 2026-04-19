@@ -1,4 +1,4 @@
-<img src="release/logo.png"></img>
+<img src="release/logo.png" width="64" height="64" align='center'/>
 # bsx
 
 Browser-side reader for the **BSX asset bundle format**, compiled to WebAssembly.  
