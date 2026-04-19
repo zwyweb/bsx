@@ -1,4 +1,4 @@
-![logo](./logo.svg)
+![logo](logo.svg)
 # bsx
 
 Browser-side reader for the **BSX asset bundle format**, compiled to WebAssembly.  
